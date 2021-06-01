@@ -1,0 +1,23 @@
+body
+{
+    background-color:blue;
+}
+  header
+{
+   text-align:center;
+   background-color:pink(163, 73, 73);
+}
+img
+{
+    position:center;
+}
+li
+{
+    text-align:center;
+    background-color:blue;
+}
+h1
+{
+    text-align:center;
+    background-color:lightgrey;
+}
